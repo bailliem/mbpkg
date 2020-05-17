@@ -2,6 +2,7 @@
 # mbpkg
 
 <!-- badges: start -->
+[![R build status](https://github.com/bailliem/mbpkg/workflows/R-CMD-check/badge.svg)](https://github.com/bailliem/mbpkg/actions)
 <!-- badges: end -->
 
 The goal of mbpkg is to ...
